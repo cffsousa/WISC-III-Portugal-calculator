@@ -12,7 +12,6 @@ def calculate_age(born):
     diff = relativedelta.relativedelta(today, date_of_birth)
     years = diff.years
     months = diff.months
-    # days = diff.days - not needed for the project. keeping it, as it might be needed later
     age = years
 
     if months >= 6:
