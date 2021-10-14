@@ -1,4 +1,4 @@
-A python pogram to help change test points into standardized points for the WISC III Inteligence scale for children.
+A python program to help convert test points into standardized points for the WISC III Inteligence scale for children.
 
 Created the program to help my girlfriend with the process of testing children using the WISC scale. This is my first program ever as I just started  to learn how to program so the code is kind of a mess, but it works.
 
